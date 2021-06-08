@@ -9,3 +9,5 @@ Data available at:
 The data is downloadable [here](https://engineering.purdue.edu/LASCI/research-data/outages/outagerisks).
 
 A data dictionary is available at this [article](https://www.sciencedirect.com/science/article/pii/S2352340918307182) under *Table 1. Variable descriptions*.
+
+Credit also to Teng-Shao Lu, who is my teammate on the project.
