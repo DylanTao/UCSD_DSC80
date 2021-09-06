@@ -1,5 +1,5 @@
 # DSC80
-Some course projects that can be shared online, feel free to use as reference. 
+Some course projects that can be shared online, feel free to use as reference (permission given by professor).
 
 
 ## Project 3: US Power Outage Study
